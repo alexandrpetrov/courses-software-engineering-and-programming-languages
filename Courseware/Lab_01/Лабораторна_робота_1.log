@@ -1,5 +1,5 @@
 **
-(student-guide.tex
+(Лабораторна_робота_1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -448,12 +448,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip75
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
- (student-guide.aux
+ (Лабораторна_робота_1.aux
 LaTeX Info: Redefining \rmfamily on input line 20.
 LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
-\openout1 = `student-guide.aux'.
+\openout1 = `Лабораторна_робота_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
@@ -589,10 +589,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 54.
 LaTeX Info: Redefining \pageref on input line 54.
 LaTeX Info: Redefining \nameref on input line 54.
- (student-guide.out)
-(student-guide.out)
+ (Лабораторна_робота_1.out)
+(Лабораторна_робота_1.out)
 \@outlinefile=\write3
-\openout3 = `student-guide.out'.
+\openout3 = `Лабораторна_робота_1.out'.
 
 LaTeX Info: Redefining \rmfamily on input line 54.
 LaTeX Info: Redefining \sffamily on input line 54.
@@ -726,12 +726,12 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49998pt}.
 
-[9] (student-guide.aux
+[9] (Лабораторна_робота_1.aux
 LaTeX Info: Redefining \rmfamily on input line 20.
 LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
-Package rerunfilecheck Info: File `student-guide.out' has not changed.
+Package rerunfilecheck Info: File `Лабораторна_робота_1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
-Output written on student-guide.xdv (9 pages, 148660 bytes).
+Output written on Лабораторна_робота_1.xdv (9 pages, 148660 bytes).
